@@ -1,0 +1,14 @@
+var x = 5;
+var y = 20;
+var title = "My First Console Project";
+var first_name = "shruti";
+var last_name = "khandai";
+var full_name = concat(first_name,last_name);
+console.log(title);
+console.log(full_name);
+console.log(x);
+console.log(y);
+console.log(x*y);
+console.log(y/x);
+console.log(y-x);
+console.log(x+y);
